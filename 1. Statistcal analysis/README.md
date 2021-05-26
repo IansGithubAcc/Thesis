@@ -8,4 +8,6 @@ The file includes:
 * Estimation of likeliest value for secondary variables
 
 ## Extra files:
-Some extra Ipython files have been addes which were used for downloading and interpeting reanalysed ERA5 data.
+Some extra Ipython files have been added which were used for downloading and interpeting reanalysed ERA5 data: https://www.ecmwf.int/en/forecasts/datasets/reanalysis-datasets/era5
+
+And tidal/storm surge analysis using Utide: https://pypi.org/project/UTide/
