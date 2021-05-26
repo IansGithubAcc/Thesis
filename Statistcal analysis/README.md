@@ -1,5 +1,5 @@
 # The statistal analysis:
-The entire analysis is done using one singular R file, which makes heavy use of the texmex package.
+The entire analysis is done using one singular R file ("Scenario_creation.R"), which makes heavy use of the texmex package.
 
 The file includes:
 * General Pareto threshold selectrion and fitting
