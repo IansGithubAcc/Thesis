@@ -6,3 +6,6 @@ The file includes:
 * Preliminary dependency analyses
 * Estimation of 2 variable join exeedance curves
 * Estimation of likeliest value for secondary variables
+
+## Extra files:
+Some extra Ipython files have been addes which were used for downloading and interpeting reanalysed ERA5 data.
