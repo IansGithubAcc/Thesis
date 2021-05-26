@@ -5,7 +5,7 @@ This page has been created to share the code I made with whomever may want to lo
 Be warned however, this code was written for short term use by only me. It is often badly commented and was not intended to be interpreted by any other than me.
 
 The code is mainly written in python. I made use of Ipython files which can be interpreted by Jupyter Lab or Jupyter Notebook. 
-Two notable exeptions are the statistical analysis which has been done using the programming language R, and the (SWAN) flexible mesh creation which has been done using MATLAB. 
+Two notable exeptions are the statistical analysis, which has been done using the programming language R, and the (SWAN) flexible mesh creation which, has been done using MATLAB. 
 
 I have catagorised my code into 4 sections. 
 1. The statistical analysis, with which my thesis started. 
