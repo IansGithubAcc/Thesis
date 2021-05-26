@@ -7,6 +7,8 @@ Be warned however, this code was written for short term use by only me. It is of
 The code is mainly written in python. I made use of Ipython files which can be interpreted by Jupyter Lab or Jupyter Notebook. 
 Two notable exeptions are the statistical analysis which has been done using thr programming language R, and the (SWAN) flexible mesh creation which has been done using MATLAB. 
 
-I have catagorised my code into 4 sections. Firsly, the statistical analysis with which my thesis started. 
-Secondly, the code I used when using the spectral wave model SWAN (http://swanmodel.sourceforge.net/). Thirdly, the code I used for the different overtopping methodologies. 
-And lastly, the code I made for the HEC-RAS (https://www.hec.usace.army.mil/software/hec-ras/) inundation modelling.
+I have catagorised my code into 4 sections. 
+1. The statistical analysis, with which my thesis started. 
+2. The code I used when using the spectral wave model SWAN (http://swanmodel.sourceforge.net/).
+3. The code I used for the 3 different overtopping methodologies. 
+4. The code I made for the HEC-RAS (https://www.hec.usace.army.mil/software/hec-ras/) inundation modelling.
