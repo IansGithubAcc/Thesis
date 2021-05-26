@@ -1,7 +1,7 @@
 # MSc thesis: Comparing flood susceptibility estimation methodologies
 Hi, welcome on the Github page of my final MSc thesis. My thesis is available at: *not available yet*
 
-This page has been created to share the code I made with whomever may want to look into it. 
+This page has been created to share the main code I made with whomever may want to look into it. 
 Be warned however, this code was written for short term use by only me. It is often badly commented and was not intended to be interpreted by any other than me.
 
 The code is mainly written in python. I made use of Ipython files which can be interpreted by Jupyter Lab or Jupyter Notebook. 
