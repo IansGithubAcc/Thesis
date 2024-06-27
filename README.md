@@ -1,5 +1,5 @@
 # MSc thesis: Comparing flood susceptibility estimation methodologies
-Hi, welcome on the Github page of my final MSc thesis. My thesis is available at: *not available yet*
+Hi, welcome on the Github page of my final MSc thesis. My thesis is available at [here](https://www.tudelft.nl/evenementen/2021/citg/waterbouwkunde/graduation-of-ian-mullens).
 
 This page has been created to share the main scripts I created for my final MSc thesis with whomever may want to look into it. 
 Be warned however, this code was written for short term use by only me. It is often badly commented and was not intended to be interpreted by anyone other than me.
